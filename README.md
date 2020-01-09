@@ -1,4 +1,5 @@
-# DUO-parser
+# DUO-parser [ARXIVED]
+
 Parser and rudimentary data analyzer for Duo output 
 
 Duo is a general programme for calculating the spectra of diatomic molecules.
